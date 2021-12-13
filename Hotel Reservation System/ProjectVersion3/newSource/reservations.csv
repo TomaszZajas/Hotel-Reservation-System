@@ -1,0 +1,11 @@
+First Name, Second Name, Phone Number, Email, Booking Number, Reservation Type, Check-In Date, Check-Out Date, Rating, Room-Type, Occupancy, Price
+Bill,Kavangh,0832769888,bill@outlook.com,1000,AP,27/09/2021,05/10/2021,3-star,Classic Single,1,437.0
+Steve,Okeefe,0876543211,steve@outlook.com,2276,S,09/02/2021,20/02/2021,3-star,Classic Single,1,645.0
+Tomasz,Zajas,0892369049,tomek@gmail.com,3302,AP,26/04/2021,02/05/2021,4-star,Executive Twin,2,422.75
+Dean,Guil,0869873221,dean@gmail.com,3891,AP,27/12/2021,02/01/2022,5-star,Deluxe Single,1,422.75
+Dylan,Watchorn,0890079888,dyl@gmail.com,3956,AP,09/05/2021,27/05/2021,5-star,Deluxe Twin,2,1349.0
+Martin,Walsh,0876554329,mart@gmail.com,4770,S,08/09/2021,20/09/2021,3-star,Classic Double,2,840.0
+Tomek,Zajas,0892369049,tomek@gmail.com,5540,S,26/04/2021,02/05/2021,5-star,Deluxe Double,1,485.0
+Tomek,Zajas,089,tomek@gmail.com,7278,AP,26/04/2021,02/05/2021,3-star,Classic Twin,1,413.25
+Ruairi,Gallagher,0865559000,ru@gmail.com,7423,S,08/06/2021,20/06/2021,5-star,Deluxe Family,3,1060.0
+John,Walsh,0854337676,john@gmail.com,8681,S,01/01/2021,05/01/2021,3-star,Classic Twin,1,295.0

@@ -1,0 +1,12 @@
+First Name, Second Name, Phone Number, Email, Booking Number, Reservation Type, Check-In Date, Check-Out Date, Rating, Room-Type, Occupancy, Price
+Tomek,Zajas,892369049,tomek@gmail.com,1377,S,26/04/2021,05/05/2021,5-star,Deluxe Single,1,650.0
+t,z,9999,tomek@gmail.com,2340,S,26/04/2021,02/05/2021,5-star,Deluxe Double,1,485.0
+t,z,0892369049,tomek@gmail.com,3767,S,26/04/2021,02/05/2021,3-star,Classic Double,1,420.0
+j,w,89,tomek@gmal.com,5231,S,26/04/2021,02/05/2021,5-star,Deluxe Double,1,485.0
+Tomek,Zajas,892369049,tomek@gmail.com,6125,S,26/04/2021,02/05/2021,5-star,Deluxe Double,1,485.0
+Tomek,Zajas,89,tomek@gmail.com,6883,AP,26/04/2021,02/05/2021,3-star,Classic Twin,1,413.25
+d,g,999,tom@gmail.com,7702,S,26/04/2021,02/05/2021,5-star,Deluxe Single,1,445.0
+Tomek,Zaj,1111111,t@gmail.com,8499,S,26/04/2021,02/05/2021,5-star,Deluxe Double,2,485.0
+tom,za,5555,tomek@gmail.com,8597,S,26/04/2021,02/05/2021,5-star,Deluxe Double,1,485.0
+Tomek,Zajas,89,tomek@gmail.com,9001,S,26/04/2021,30/05/2021,4-star,Executive Single,1,2345.0
+Tomek,Zaj,9999,tomek@gmail.com,9833,S,26/04/2021,02/05/2021,4-star,Executive Single,1,405.0
